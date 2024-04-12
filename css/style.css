@@ -1,0 +1,53 @@
+body {
+  color: white;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url(https://w0.peakpx.com/wallpaper/690/538/HD-wallpaper-millionaire-tv-studio-set-uk-2018-who-wants-to-be-a-millionaire.jpg)
+}
+
+
+
+/* .questionsCtr {
+  background-color: black;
+  width: 80%;
+  border: 2px;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 20px;
+} */
+
+
+#topRow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#bottomRow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+#play-again {
+  margin-top: 100px;
+  border-radius: 30px;
+  padding: 5px 10px;
+  cursor: pointer;
+  background-color: burlywood;
+}
+
+#play-again:hover {
+padding: 7px 12px;
+}
